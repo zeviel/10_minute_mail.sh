@@ -3,6 +3,6 @@ Web-API for [10 Minute Mail](https://10minemail.com) website that provides tempo
 
 ## Example
 ```bash
-source 10_minute_mail.sh
+source ./10_minute_mail.sh
 generate_email
 ```
